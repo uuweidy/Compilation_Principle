@@ -1,0 +1,29 @@
+﻿  main.cpp
+d:\file\编译原理\第三次上机(ll1文法)\ll1\ll1\main.cpp(29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+d:\file\编译原理\第三次上机(ll1文法)\ll1\ll1\main.cpp(51): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\file\编译原理\第三次上机(ll1文法)\ll1\ll1\main.cpp(57): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\file\编译原理\第三次上机(ll1文法)\ll1\ll1\main.cpp(71): warning C4018: “<”: 有符号/无符号不匹配
+d:\file\编译原理\第三次上机(ll1文法)\ll1\ll1\main.cpp(109): warning C4018: “<”: 有符号/无符号不匹配
+d:\file\编译原理\第三次上机(ll1文法)\ll1\ll1\main.cpp(140): warning C4018: “<”: 有符号/无符号不匹配
+d:\file\编译原理\第三次上机(ll1文法)\ll1\ll1\main.cpp(176): warning C4018: “<”: 有符号/无符号不匹配
+d:\file\编译原理\第三次上机(ll1文法)\ll1\ll1\main.cpp(199): warning C4018: “<”: 有符号/无符号不匹配
+d:\file\编译原理\第三次上机(ll1文法)\ll1\ll1\main.cpp(244): warning C4018: “<”: 有符号/无符号不匹配
+d:\file\编译原理\第三次上机(ll1文法)\ll1\ll1\main.cpp(307): warning C4018: “<”: 有符号/无符号不匹配
+d:\file\编译原理\第三次上机(ll1文法)\ll1\ll1\main.cpp(352): warning C4018: “<”: 有符号/无符号不匹配
+d:\file\编译原理\第三次上机(ll1文法)\ll1\ll1\main.cpp(358): warning C4018: “<”: 有符号/无符号不匹配
+d:\file\编译原理\第三次上机(ll1文法)\ll1\ll1\main.cpp(367): warning C4018: “<”: 有符号/无符号不匹配
+d:\file\编译原理\第三次上机(ll1文法)\ll1\ll1\main.cpp(374): warning C4018: “<”: 有符号/无符号不匹配
+d:\file\编译原理\第三次上机(ll1文法)\ll1\ll1\main.cpp(393): warning C4018: “<=”: 有符号/无符号不匹配
+d:\file\编译原理\第三次上机(ll1文法)\ll1\ll1\main.cpp(397): warning C4018: “<”: 有符号/无符号不匹配
+d:\file\编译原理\第三次上机(ll1文法)\ll1\ll1\main.cpp(400): warning C4018: “<=”: 有符号/无符号不匹配
+d:\file\编译原理\第三次上机(ll1文法)\ll1\ll1\main.cpp(403): warning C4018: “<”: 有符号/无符号不匹配
+d:\file\编译原理\第三次上机(ll1文法)\ll1\ll1\main.cpp(406): warning C4018: “<”: 有符号/无符号不匹配
+d:\file\编译原理\第三次上机(ll1文法)\ll1\ll1\main.cpp(411): warning C4018: “<=”: 有符号/无符号不匹配
+d:\file\编译原理\第三次上机(ll1文法)\ll1\ll1\main.cpp(504): warning C4018: “<”: 有符号/无符号不匹配
+d:\file\编译原理\第三次上机(ll1文法)\ll1\ll1\main.cpp(597): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+  LL1.vcxproj -> D:\file\编译原理\第三次上机(LL1文法)\LL1\Debug\LL1.exe
+  LL1.vcxproj -> D:\file\编译原理\第三次上机(LL1文法)\LL1\Debug\LL1.pdb (Full PDB)
